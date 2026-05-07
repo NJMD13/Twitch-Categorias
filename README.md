@@ -109,7 +109,7 @@ Puedes utilizarlo en **cualquier proyecto** que permita:
 Por ejemplo, puedes usarlo en:
 
 - Aplicaciones web o móviles.
-- Bots de Discord o Telegram.
+- Bots de Discord, Telegram entre muchos más.
 - Scripts de automatización.
 - Paneles de visualización de datos.
 - Cualquier proyecto que necesite mostrar las imágenes de las categorías de Twitch en tiempo real.
